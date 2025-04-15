@@ -1,0 +1,3 @@
+* Where this file comes from:
+- I've made a very basic script to scrape the content of the alexander romance from https://www.attalus.org/info/alexander.html
+- Thus, this will mark a separate corpora source
