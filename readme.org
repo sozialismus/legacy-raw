@@ -1,0 +1,7 @@
+* Introduction
+- This repo is a simple way to collocate two legacy versions
+  - Perseus - https://github.com/PerseusDL/canonical-greekLit
+    - Git release / head: 0.0.195-2281-g70c5d9de
+  - First1KGreek - https://github.com/OpenGreekAndLatin/First1KGreek
+    - Git release / head: 1.1.1035-2948-gb269f64e
+- Furthermore, there's a copy of a simple scrape script along with the scraped text output from https://www.attalus.org/info/alexander.html
